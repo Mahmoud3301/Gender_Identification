@@ -78,7 +78,7 @@ http://localhost:5000
 
 ### Homepage
 
-![Website Screenshot 1](images/screenshot1.png)
+![Website Screenshot 1](images/web.png)
 
 ---
 
