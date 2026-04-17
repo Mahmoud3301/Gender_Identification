@@ -1,0 +1,1 @@
+{"sr": 22050, "duration": 5.0, "n_mfcc": 40, "n_mels": 128, "img_size": [128, 128], "fmax": 8000, "classes": ["female", "male"]}
