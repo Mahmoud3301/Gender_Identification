@@ -86,7 +86,7 @@ http://localhost:5000
 
 ### Output Example 1
 
-![Output 1](images/output1.png)
+![Output 1](images/outpu1.png)
 
 ### Output Example 2
 
